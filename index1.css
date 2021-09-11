@@ -1,0 +1,39 @@
+.container1{
+    width: 30rem;
+    max-width: 400px;  
+    margin-top: 10%;
+}
+.container2{
+    width: 25rem;  
+    margin-top: 10%;
+}
+.Tasks{
+    font-family: 'Merriweather Sans', sans-serif;
+    font-weight: bolder;
+    color: rgb(47, 52, 56);
+}
+.Lists{
+    font-family: 'Heebo', sans-serif;
+    font-weight: lighter;
+    color: rgb(161, 161, 161);
+}
+.fa-plus-circle{
+    color: orangered;
+}
+.fa-arrow-circle-left{
+    color: orangered;
+}
+.shadow1{
+    box-shadow: 3px 3px 6px 3px rgb(211, 210, 210);
+    color: rgba(29, 13, 1, 0.863);
+}
+.Completed{
+    color: orangered;
+    text-decoration-color: orangered;
+    text-decoration-line: line-through;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.check-box{
+    margin-right: 4%;
+    margin-left: 20%;
+}

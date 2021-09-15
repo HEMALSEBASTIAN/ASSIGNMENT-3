@@ -37,3 +37,9 @@
     margin-right: 4%;
     margin-left: 20%;
 }
+.pop_up{
+    width:25rem; 
+    height: 12rem;
+    margin: auto;
+    bottom: 20rem;
+}
